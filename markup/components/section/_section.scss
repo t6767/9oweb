@@ -1,0 +1,63 @@
+/*
+|--------------------------------------------------------------------------
+| section
+|--------------------------------------------------------------------------
+*/
+
+.section {
+
+    &__offset {
+        height: 100vh;
+        @include rem('padding', 130px 15px 0 130px);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+        @include media-breakpoint-down(lg) {
+            @include rem('padding', 130px 15px 0);
+        }
+
+        @include media-breakpoint-down(md) {
+            height: auto;
+            @include rem('padding', 50px 15px !important);
+        }
+
+        @media only screen and (max-height: 900px) {
+            @include rem('padding', 110px 15px 0 130px);
+        }
+    }
+
+    &__header {
+        @include rem('padding-bottom', 35px);
+        display: flex;
+        align-items: center;
+
+        @include media-breakpoint-down(xs) {
+            flex-direction: column;
+            align-items: flex-start;
+        }
+    }
+
+    &__header-title {
+        @include rem('font-size', 42px);
+        font-weight: 700;
+        color: $black;
+        line-height: 1.2;
+
+        @include media-breakpoint-down(md) {
+            @include rem('font-size', 32px);
+        }
+
+        @include media-breakpoint-down(sm) {
+
+        }
+    }
+
+    &__header-button {
+        margin-left: auto;
+
+        @include media-breakpoint-down(xs) {
+            margin: 15px 0 0 0;
+        }
+    }
+}
