@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b17aa74f-0389-48f1-ae00-828c323eb762" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/markup/components/social/_social.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markup/components/bottom/bottom.html" beforeDir="false" afterPath="$PROJECT_DIR$/markup/components/bottom/bottom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markup/components/burger/_burger.scss" beforeDir="false" afterPath="$PROJECT_DIR$/markup/components/burger/_burger.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markup/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/markup/pages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markup/static/js/separate-js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/markup/static/js/separate-js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markup/static/scss/entry/partials/_components.scss" beforeDir="false" afterPath="$PROJECT_DIR$/markup/static/scss/entry/partials/_components.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markup/static/scss/plugins-reset/_bootstrap-reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/markup/static/scss/plugins-reset/_bootstrap-reset.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XwIvpB9PGwUs0G9229GDqfBSJq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\sites\Git-Projects\9oweb\markup\pages" />
+      <recent name="D:\sites\9oweb\markup\static\scss\plugins" />
+      <recent name="D:\sites\Tars Builder\markup\components\breadcrumbs" />
+      <recent name="D:\sites\Tars Builder\markup\components" />
+      <recent name="D:\sites\Tars Builder\markup\static\scss" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\sites\Tars Builder\markup\static\scss\mixins" />
+      <recent name="D:\sites\Tars Builder\markup\components" />
+      <recent name="D:\sites\Tars Builder\markup\layout" />
+      <recent name="D:\sites\Tars Builder\markup\components\layout" />
+      <recent name="D:\sites\Tars Builder\markup\components\ui" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b17aa74f-0389-48f1-ae00-828c323eb762" name="Default" comment="" />
+      <created>1512495213679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512495213679</updated>
+      <workItem from="1512495215000" duration="7265000" />
+      <workItem from="1512503563218" duration="2501000" />
+      <workItem from="1513706606902" duration="1892000" />
+      <workItem from="1515437311130" duration="7781000" />
+      <workItem from="1515613160832" duration="2316000" />
+      <workItem from="1515616984367" duration="8000" />
+      <workItem from="1515687342338" duration="1374000" />
+      <workItem from="1515957480777" duration="37000" />
+      <workItem from="1516900804685" duration="1918000" />
+      <workItem from="1516952405966" duration="7747000" />
+      <workItem from="1517934539166" duration="4518000" />
+      <workItem from="1517992731902" duration="2067000" />
+      <workItem from="1518024143709" duration="2017000" />
+      <workItem from="1518081978636" duration="114000" />
+      <workItem from="1524918942617" duration="2158000" />
+      <workItem from="1530531548930" duration="465000" />
+      <workItem from="1530532210917" duration="246000" />
+      <workItem from="1532987929833" duration="8955000" />
+      <workItem from="1533241047208" duration="1591000" />
+      <workItem from="1534341093237" duration="9000" />
+      <workItem from="1534341131672" duration="2862000" />
+      <workItem from="1537041514367" duration="3620000" />
+      <workItem from="1537125386907" duration="500000" />
+      <workItem from="1537126592838" duration="1704000" />
+      <workItem from="1537174967127" duration="7340000" />
+      <workItem from="1537195868321" duration="2982000" />
+      <workItem from="1537870186733" duration="1750000" />
+      <workItem from="1543267698567" duration="1926000" />
+      <workItem from="1543307772048" duration="35000" />
+      <workItem from="1543524031619" duration="259000" />
+      <workItem from="1543583450637" duration="7799000" />
+      <workItem from="1543952381708" duration="713000" />
+      <workItem from="1546099752449" duration="2337000" />
+      <workItem from="1546897916987" duration="957000" />
+      <workItem from="1546949220513" duration="243000" />
+      <workItem from="1546985863576" duration="64000" />
+      <workItem from="1547027593045" duration="12000" />
+      <workItem from="1547456480686" duration="996000" />
+      <workItem from="1547469450839" duration="1296000" />
+      <workItem from="1548936130382" duration="10000" />
+      <workItem from="1548942191983" duration="2849000" />
+      <workItem from="1548960531976" duration="31000" />
+      <workItem from="1548961266427" duration="8892000" />
+      <workItem from="1554401236370" duration="775000" />
+      <workItem from="1558358659232" duration="773000" />
+      <workItem from="1562958234415" duration="3762000" />
+      <workItem from="1563014539197" duration="603000" />
+      <workItem from="1572741094232" duration="73000" />
+      <workItem from="1572970482313" duration="680000" />
+      <workItem from="1572990623242" duration="1333000" />
+      <workItem from="1573034366851" duration="9000" />
+      <workItem from="1573567387978" duration="276000" />
+      <workItem from="1573712855763" duration="5910000" />
+      <workItem from="1573736523280" duration="21534000" />
+      <workItem from="1573814435192" duration="252000" />
+      <workItem from="1573816022707" duration="1648000" />
+      <workItem from="1573819821721" duration="5842000" />
+      <workItem from="1581950964779" duration="1498000" />
+      <workItem from="1581962697196" duration="120000" />
+      <workItem from="1582223362650" duration="1686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="805" y="312" key="FileChooserDialogImpl" timestamp="1581962815682">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="312" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1581962815682" />
+  </component>
+</project>

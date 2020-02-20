@@ -32,15 +32,14 @@ $(function() {
     |--------------------------------------------------------------------------
     */
 
-    $('.jsBurgerMenu').click(function() {
-        $(this).toggleClass('-open');
-        $('.m-menu').toggleClass('-show');
-        if ($(this).hasClass('-open')) {
-            $('body').css({"overflow": "hidden"});
-        } else {
-            $('body').css({"overflow": ""});
-        }
+    $('.modal').on('shown.bs.modal', function (e) {
+        $('.lang').toggleClass('-inverted');
     });
+
+    $('.modal').on('hide.bs.modal', function (e) {
+        $('.lang').toggleClass('-inverted');
+    });
+
 
     /*
     |--------------------------------------------------------------------------
