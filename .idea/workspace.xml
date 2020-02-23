@@ -1,13 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b17aa74f-0389-48f1-ae00-828c323eb762" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/markup/components/social/_social.scss" afterDir="false" />
+    <list default="true" id="b17aa74f-0389-48f1-ae00-828c323eb762" name="Default" comment="Новые правки">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/content/client-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/content/client-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/content/menu-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/content/menu-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/content/p1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/content/p1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/content/p2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/content/p2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/content/p3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/content/p3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/app.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/app.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/ellipse.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/ellipse.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/entry_img.png" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/entry_img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/ic_angle_down.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/ic_angle_down.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/ic_angle_left.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/ic_angle_left.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/ic_angle_right.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/ic_angle_right.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/ic_attach.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/ic_attach.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/ic_fb.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/ic_fb.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/ic_instagram.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/ic_instagram.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/ic_play.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/ic_play.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/ic_tw.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/ic_tw.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/lightgallery/video-play.png" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/lightgallery/video-play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/lightgallery/vimeo-play.png" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/lightgallery/vimeo-play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/lightgallery/youtube-play.png" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/lightgallery/youtube-play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/wave_1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/wave_1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/wave_2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/wave_2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/wave_3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/wave_3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/wave_4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/wave_4.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/wave_5.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/wave_5.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/wave_6.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/wave_6.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/wave_7.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/wave_7.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/js/separate-js/html5shiv-3.7.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/js/separate-js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/js/separate-js/scripts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/markup/components/bottom/bottom.html" beforeDir="false" afterPath="$PROJECT_DIR$/markup/components/bottom/bottom.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/markup/components/burger/_burger.scss" beforeDir="false" afterPath="$PROJECT_DIR$/markup/components/burger/_burger.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markup/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/markup/pages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markup/components/header/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/markup/components/header/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markup/components/lang/_lang.scss" beforeDir="false" afterPath="$PROJECT_DIR$/markup/components/lang/_lang.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markup/components/logo/_logo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/markup/components/logo/_logo.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/markup/static/js/separate-js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/markup/static/js/separate-js/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markup/static/scss/entry/partials/_components.scss" beforeDir="false" afterPath="$PROJECT_DIR$/markup/static/scss/entry/partials/_components.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/markup/static/scss/plugins-reset/_bootstrap-reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/markup/static/scss/plugins-reset/_bootstrap-reset.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,19 +81,19 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\sites\Git-Projects\9oweb\markup\pages" />
-      <recent name="D:\sites\9oweb\markup\static\scss\plugins" />
-      <recent name="D:\sites\Tars Builder\markup\components\breadcrumbs" />
-      <recent name="D:\sites\Tars Builder\markup\components" />
-      <recent name="D:\sites\Tars Builder\markup\static\scss" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\sites\Tars Builder\markup\static\scss\mixins" />
       <recent name="D:\sites\Tars Builder\markup\components" />
       <recent name="D:\sites\Tars Builder\markup\layout" />
       <recent name="D:\sites\Tars Builder\markup\components\layout" />
       <recent name="D:\sites\Tars Builder\markup\components\ui" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\sites\Git-Projects\9oweb\markup\pages" />
+      <recent name="D:\sites\9oweb\markup\static\scss\plugins" />
+      <recent name="D:\sites\Tars Builder\markup\components\breadcrumbs" />
+      <recent name="D:\sites\Tars Builder\markup\components" />
+      <recent name="D:\sites\Tars Builder\markup\static\scss" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -144,17 +177,45 @@
       <workItem from="1573819821721" duration="5842000" />
       <workItem from="1581950964779" duration="1498000" />
       <workItem from="1581962697196" duration="120000" />
-      <workItem from="1582223362650" duration="1686000" />
+      <workItem from="1582223362650" duration="2019000" />
+      <workItem from="1582266297995" duration="2148000" />
+      <workItem from="1582308091146" duration="599000" />
+      <workItem from="1582442060403" duration="268000" />
+      <workItem from="1582456131070" duration="2843000" />
     </task>
+    <task id="LOCAL-00001" summary="Новые правки">
+      <created>1582229248823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582229248823</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Новые правки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Новые правки" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="805" y="312" key="FileChooserDialogImpl" timestamp="1581962815682">
+    <state x="674" y="152" key="CommitChangelistDialog2" timestamp="1582459171734">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="805" y="312" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1581962815682" />
+    <state x="674" y="152" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1582459171734" />
+    <state x="805" y="312" key="FileChooserDialogImpl" timestamp="1582442327460">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="312" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1582442327460" />
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1582229250648">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1582229250648" />
+    <state x="681" y="259" key="run.anything.popup" timestamp="1582273720831">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="681" y="259" key="run.anything.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1582273720831" />
   </component>
 </project>
