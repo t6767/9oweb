@@ -8,10 +8,10 @@
     @include rem('padding', 25px 0);
     width: 100%;
     @include transition(.3s);
-    z-index: 999;
     position: fixed;
     top: 0;
     left: 0;
+    z-index: 1000;
 
     @include media-breakpoint-down(sm) {
         @include rem('padding', 15px 0);
@@ -59,9 +59,16 @@
     &__button {
         @include rem('margin-left', 75px);
         min-width: 200px;
+        z-index: 1100;
+        position: relative;
 
         @include media-breakpoint-down(md) {
             display: none;
         }
+    }
+
+    &.-inverted {
+
+
     }
 }
