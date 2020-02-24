@@ -17222,98 +17222,19 @@ a:hover, a:focus {
   }
 }
 
-#modal-cta {
-  z-index: 1052;
-}
-
 .modal__close {
-  outline: none !important;
-}
-
-.modal .lang__link {
-  color: #fff;
-}
-
-.modal__header {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
   position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-}
-
-.modal__header-right {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  margin-left: auto;
-}
-
-.modal .lang__link.-active {
-  color: #fff;
-  border-color: #fff;
-}
-
-.modal__header-button {
-  color: #3497D2;
-  background: #fff !important;
-  min-width: 200px;
-  position: relative;
-}
-
-@media (max-width: 991.98px) {
-  .modal__header-button {
-    display: none !important;
-  }
+  top: 15px;
+  right: 15px;
+  outline: none !important;
 }
 
 .modal__burger {
-  background: url("../img/general/ic-close.svg") no-repeat;
-  width: 50px;
-  height: 50px;
-  outline: none !important;
-  border: none;
-  padding: 0;
-  position: absolute;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  transform: translateY(-50%);
+  top: 30px !important;
+  -webkit-transform: none;
+          transform: none;
+  position: absolute !important;
   left: 15px;
-}
-
-.modal__header-title {
-  font-size: 42px;
-  font-size: 2.625rem;
-  font-weight: 800;
-  color: #fff;
-  line-height: 1;
-  padding-left: 130px;
-  padding-left: 8.125rem;
-}
-
-@media (max-width: 991.98px) {
-  .modal__header-title {
-    display: none;
-  }
-}
-
-.modal__body {
-  padding-top: 140px;
-  padding-top: 8.75rem;
-}
-
-@media (max-width: 991.98px) {
-  .modal__body {
-    padding-top: 0;
-  }
 }
 
 .modal__content {
@@ -17345,6 +17266,21 @@ a:hover, a:focus {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
+  }
+}
+
+.modal__header {
+  font-size: 42px;
+  font-size: 2.625rem;
+  font-weight: 800;
+  color: #fff;
+  padding-bottom: 70px;
+  padding-bottom: 4.375rem;
+}
+
+@media (max-width: 991.98px) {
+  .modal__header {
+    display: none;
   }
 }
 
@@ -17587,6 +17523,7 @@ a:hover, a:focus {
   background: none;
   padding: 35px 0;
   padding: 2.1875rem 0;
+  display: block;
   position: absolute;
   top: 0;
   bottom: 0;
@@ -17594,8 +17531,8 @@ a:hover, a:focus {
 
 @media (max-width: 991.98px) {
   .modal.-wide .modal__content {
-    padding: 35px 0;
-    padding: 2.1875rem 0;
+    padding: 0;
+    padding: 0;
   }
 }
 
@@ -18292,10 +18229,10 @@ input[type=checkbox]:not(:disabled).tabbed:focus ~ .lever::before {
   width: 100%;
   -webkit-transition: 0.3s;
   transition: 0.3s;
+  z-index: 999;
   position: fixed;
   top: 0;
   left: 0;
-  z-index: 1000;
 }
 
 @media (max-width: 767.98px) {
@@ -18366,8 +18303,6 @@ input[type=checkbox]:not(:disabled).tabbed:focus ~ .lever::before {
   margin-left: 75px;
   margin-left: 4.6875rem;
   min-width: 200px;
-  z-index: 1100;
-  position: relative;
 }
 
 @media (max-width: 991.98px) {
@@ -18382,8 +18317,7 @@ input[type=checkbox]:not(:disabled).tabbed:focus ~ .lever::before {
 |--------------------------------------------------------------------------
 */
 .burger {
-  -webkit-transition: 0.3s;
-  transition: 0.3s;
+  -webkit-transition: all 0.2s ease-out;
   cursor: pointer;
   width: 50px;
   height: 50px;
@@ -18395,7 +18329,7 @@ input[type=checkbox]:not(:disabled).tabbed:focus ~ .lever::before {
   outline: none !important;
   -webkit-box-shadow: 0 10px 10px rgba(52, 151, 210, 0.25);
           box-shadow: 0 10px 10px rgba(52, 151, 210, 0.25);
-  z-index: 1100;
+  z-index: 10;
 }
 
 @media (min-width: 992px) {
@@ -18475,10 +18409,6 @@ input[type=checkbox]:not(:disabled).tabbed:focus ~ .lever::before {
   background: #3497D2;
 }
 
-.burger.-hide {
-  opacity: 0;
-}
-
 /*
 |--------------------------------------------------------------------------
 | logo
@@ -18491,8 +18421,6 @@ input[type=checkbox]:not(:disabled).tabbed:focus ~ .lever::before {
   background-size: 100%;
   width: 105px;
   height: 80px;
-  -webkit-transition: 0.3s;
-  transition: 0.3s;
 }
 
 @media (max-width: 991.98px) {
@@ -18500,10 +18428,6 @@ input[type=checkbox]:not(:disabled).tabbed:focus ~ .lever::before {
     width: 75px;
     height: 57px;
   }
-}
-
-.logo.-hide {
-  opacity: 0;
 }
 
 /*
@@ -18690,8 +18614,6 @@ input[type=checkbox]:not(:disabled).tabbed:focus ~ .lever::before {
 .lang {
   margin-left: 55px;
   margin-left: 3.4375rem;
-  position: relative;
-  z-index: 1100;
 }
 
 @media (max-width: 767.98px) {
