@@ -6,8 +6,6 @@
 
 .lang {
     @include rem('margin-left', 55px);
-    position: relative;
-    z-index: 1100;
 
     @include media-breakpoint-down(sm) {
         margin: 0;
@@ -36,10 +34,5 @@
             border-color: $black;
             color: $black;
         }
-    }
-
-    &.-inverted {
-
-
     }
 }

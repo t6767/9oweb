@@ -32,18 +32,12 @@ $(function() {
     |--------------------------------------------------------------------------
     */
 
-    $(document).on('hidden.bs.modal', function (event) {
-        if ($('.modal:visible').length) {
-            $('body').addClass('modal-open');
-        }
-    });
-
-    $('.modal').on('show.bs.modal', function (e) {
-
+    $('.modal').on('shown.bs.modal', function (e) {
+        $('.lang').toggleClass('-inverted');
     });
 
     $('.modal').on('hide.bs.modal', function (e) {
-
+        $('.lang').toggleClass('-inverted');
     });
 
 

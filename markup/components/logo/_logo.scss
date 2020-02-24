@@ -11,14 +11,9 @@
     background-size: 100%;
     width: 105px;
     height: 80px;
-    @include transition(.3s);
 
     @include media-breakpoint-down(md) {
         width: 75px;
         height: 57px
-    }
-
-    &.-hide {
-        opacity: 0;
     }
 }
