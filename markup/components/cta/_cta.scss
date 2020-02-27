@@ -55,6 +55,16 @@
         }
     }
 
+
+.control__input {
+    background: none !important;
+}
+
+.selectize-control.single .selectize-input {
+    background: none !important;
+}
+
+
     &__form-button {
         min-width: 200px;
         @include rem('margin-top', 30px)

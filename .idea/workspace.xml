@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b17aa74f-0389-48f1-ae00-828c323eb762" name="Default" comment="Новые правки">
+    <list default="true" id="b17aa74f-0389-48f1-ae00-828c323eb762" name="Default" comment="Обновленный модалки">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/css/main.css" afterDir="false" />
@@ -13,6 +13,7 @@
       <change beforePath="$PROJECT_DIR$/dev/static/img/general/app.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/app.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/img/general/ellipse.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/ellipse.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/img/general/entry_img.png" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/entry_img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/ic-close.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/ic-close.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/img/general/ic_angle_down.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/ic_angle_down.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/img/general/ic_angle_left.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/ic_angle_left.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/img/general/ic_angle_right.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/ic_angle_right.svg" afterDir="false" />
@@ -34,14 +35,7 @@
       <change beforePath="$PROJECT_DIR$/dev/static/img/general/wave_7.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/wave_7.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/js/separate-js/html5shiv-3.7.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/static/js/separate-js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/js/separate-js/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markup/components/bottom/bottom.html" beforeDir="false" afterPath="$PROJECT_DIR$/markup/components/bottom/bottom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markup/components/burger/_burger.scss" beforeDir="false" afterPath="$PROJECT_DIR$/markup/components/burger/_burger.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markup/components/header/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/markup/components/header/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markup/components/lang/_lang.scss" beforeDir="false" afterPath="$PROJECT_DIR$/markup/components/lang/_lang.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markup/components/logo/_logo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/markup/components/logo/_logo.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markup/static/js/separate-js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/markup/static/js/separate-js/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markup/static/scss/plugins-reset/_bootstrap-reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/markup/static/scss/plugins-reset/_bootstrap-reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markup/components/cta/_cta.scss" beforeDir="false" afterPath="$PROJECT_DIR$/markup/components/cta/_cta.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +175,8 @@
       <workItem from="1582266297995" duration="2148000" />
       <workItem from="1582308091146" duration="599000" />
       <workItem from="1582442060403" duration="268000" />
-      <workItem from="1582456131070" duration="2843000" />
+      <workItem from="1582456131070" duration="3084000" />
+      <workItem from="1582799739977" duration="1256000" />
     </task>
     <task id="LOCAL-00001" summary="Новые правки">
       <created>1582229248823</created>
@@ -190,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582229248823</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Обновленный модалки">
+      <created>1582459173462</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582459173462</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,21 +200,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Новые правки" />
-    <option name="LAST_COMMIT_MESSAGE" value="Новые правки" />
+    <MESSAGE value="Обновленный модалки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновленный модалки" />
   </component>
   <component name="WindowStateProjectService">
     <state x="674" y="152" key="CommitChangelistDialog2" timestamp="1582459171734">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="674" y="152" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1582459171734" />
-    <state x="805" y="312" key="FileChooserDialogImpl" timestamp="1582442327460">
+    <state x="805" y="312" key="FileChooserDialogImpl" timestamp="1582459216542">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="805" y="312" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1582442327460" />
-    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1582229250648">
+    <state x="805" y="312" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1582459216542" />
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1582459203640">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1582229250648" />
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1582459203640" />
     <state x="681" y="259" key="run.anything.popup" timestamp="1582273720831">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>

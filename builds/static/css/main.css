@@ -19435,6 +19435,14 @@ input[type=checkbox]:not(:disabled).tabbed:focus ~ .lever::before {
   }
 }
 
+.cta .control__input {
+  background: none !important;
+}
+
+.cta .selectize-control.single .selectize-input {
+  background: none !important;
+}
+
 .cta__form-button {
   min-width: 200px;
   margin-top: 30px;
