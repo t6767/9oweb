@@ -24,7 +24,35 @@ $(function() {
         //navigationTooltips: ['Главная', 'Преимущества проекта', 'УСЛОВИЯ ПРОГРАММЫ', 'Гарантии компании', 'Мы предлагаем', 'Рассчет онлайн', 'АКЦИИ', 'ВОПРОС ОТВЕТ', 'СВЯЗАТЬСЯ С НАМИ'],
         responsiveWidth: 1000,
         responsiveHeight: 700,
+        onLeave: function(destination) {
+            if(destination.index == 4){
+                counter();
+            }
+        },
     });
+
+    /*
+    |--------------------------------------------------------------------------
+    | Counter
+    |--------------------------------------------------------------------------
+    */
+
+    $('.js-counter').each(function(){
+        $(this).attr("data-count", $(this).text());
+    });
+
+    function counter() {
+        $('.js-counter').each(function (){
+            $(this).stop().prop('Counter',0).animate({
+                Counter: $(this).attr("data-count")
+            },{	duration: 4000,
+                easing: 'swing',
+                step: function (now){
+                    $(this).text(Math.ceil(now));
+                }
+            });
+        });
+    };
 
     /*
     |--------------------------------------------------------------------------
@@ -102,7 +130,7 @@ $(function() {
     */
 
 	let entrySlider = new Swiper('.jsEntrySlider', {
-		speed: 600,
+		speed: 800,
 		mousewheel: false,
 		loop: true,
 		autoplay: {

@@ -48,4 +48,8 @@
     &__item-body {
         max-width: 380px;
     }
+
+    &__button {
+        @include rem('margin', 15px 0 10px)
+    }
 }

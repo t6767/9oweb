@@ -17227,6 +17227,9 @@ a:hover, a:focus {
 }
 
 .modal__close {
+  position: absolute;
+  top: 15px;
+  right: 15px;
   outline: none !important;
 }
 
@@ -17517,7 +17520,7 @@ a:hover, a:focus {
 }
 
 .modal__cta {
-  padding: 0;
+  padding: 0 !important;
   background: none !important;
 }
 
@@ -18766,6 +18769,10 @@ input[type=checkbox]:not(:disabled).tabbed:focus ~ .lever::before {
   color: #383E44;
 }
 
+.entry .swiper-container {
+  width: 100%;
+}
+
 /*
 |--------------------------------------------------------------------------
 | services
@@ -18825,6 +18832,11 @@ input[type=checkbox]:not(:disabled).tabbed:focus ~ .lever::before {
 
 .services__item-body {
   max-width: 380px;
+}
+
+.services__button {
+  margin: 15px 0 10px;
+  margin: 0.9375rem 0 0.625rem;
 }
 
 /*

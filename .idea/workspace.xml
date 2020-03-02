@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b17aa74f-0389-48f1-ae00-828c323eb762" name="Default" comment="Обновленный модалки">
+    <list default="true" id="b17aa74f-0389-48f1-ae00-828c323eb762" name="Default" comment="Обновил CSS">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/css/main.css" afterDir="false" />
@@ -13,7 +13,6 @@
       <change beforePath="$PROJECT_DIR$/dev/static/img/general/app.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/app.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/img/general/ellipse.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/ellipse.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/img/general/entry_img.png" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/entry_img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/static/img/general/ic-close.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/ic-close.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/img/general/ic_angle_down.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/ic_angle_down.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/img/general/ic_angle_left.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/ic_angle_left.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/img/general/ic_angle_right.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/ic_angle_right.svg" afterDir="false" />
@@ -26,6 +25,10 @@
       <change beforePath="$PROJECT_DIR$/dev/static/img/general/lightgallery/vimeo-play.png" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/lightgallery/vimeo-play.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/img/general/lightgallery/youtube-play.png" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/lightgallery/youtube-play.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/img/general/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/modal-img.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/modal-img.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/plane-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/plane-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/plane-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/plane-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/img/general/plane-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/plane-3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/img/general/wave_1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/wave_1.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/img/general/wave_2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/wave_2.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/img/general/wave_3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/wave_3.svg" afterDir="false" />
@@ -35,7 +38,12 @@
       <change beforePath="$PROJECT_DIR$/dev/static/img/general/wave_7.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/img/general/wave_7.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/static/js/separate-js/html5shiv-3.7.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/markup/components/cta/_cta.scss" beforeDir="false" afterPath="$PROJECT_DIR$/markup/components/cta/_cta.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/static/js/separate-js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev/static/js/separate-js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markup/components/entry/_entry.scss" beforeDir="false" afterPath="$PROJECT_DIR$/markup/components/entry/_entry.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markup/components/services/_services.scss" beforeDir="false" afterPath="$PROJECT_DIR$/markup/components/services/_services.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markup/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/markup/pages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markup/static/js/separate-js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/markup/static/js/separate-js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markup/static/scss/plugins-reset/_bootstrap-reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/markup/static/scss/plugins-reset/_bootstrap-reset.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,23 +79,23 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../9owebWerstka" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\sites\Tars Builder\markup\static\scss\mixins" />
-      <recent name="D:\sites\Tars Builder\markup\components" />
-      <recent name="D:\sites\Tars Builder\markup\layout" />
-      <recent name="D:\sites\Tars Builder\markup\components\layout" />
-      <recent name="D:\sites\Tars Builder\markup\components\ui" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\sites\Git-Projects\9oweb\markup\pages" />
       <recent name="D:\sites\9oweb\markup\static\scss\plugins" />
       <recent name="D:\sites\Tars Builder\markup\components\breadcrumbs" />
       <recent name="D:\sites\Tars Builder\markup\components" />
       <recent name="D:\sites\Tars Builder\markup\static\scss" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\sites\Tars Builder\markup\static\scss\mixins" />
+      <recent name="D:\sites\Tars Builder\markup\components" />
+      <recent name="D:\sites\Tars Builder\markup\layout" />
+      <recent name="D:\sites\Tars Builder\markup\components\layout" />
+      <recent name="D:\sites\Tars Builder\markup\components\ui" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -176,7 +184,10 @@
       <workItem from="1582308091146" duration="599000" />
       <workItem from="1582442060403" duration="268000" />
       <workItem from="1582456131070" duration="3084000" />
-      <workItem from="1582799739977" duration="1256000" />
+      <workItem from="1582799739977" duration="1573000" />
+      <workItem from="1582807705192" duration="15000" />
+      <workItem from="1583138717520" duration="3010000" />
+      <workItem from="1583158284176" duration="1115000" />
     </task>
     <task id="LOCAL-00001" summary="Новые правки">
       <created>1582229248823</created>
@@ -192,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582459173462</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Обновил CSS">
+      <created>1582806423176</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582806423176</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,21 +219,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Новые правки" />
     <MESSAGE value="Обновленный модалки" />
-    <option name="LAST_COMMIT_MESSAGE" value="Обновленный модалки" />
+    <MESSAGE value="Обновил CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновил CSS" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="674" y="152" key="CommitChangelistDialog2" timestamp="1582459171734">
+    <state x="674" y="152" key="CommitChangelistDialog2" timestamp="1582806421760">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="674" y="152" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1582459171734" />
-    <state x="805" y="312" key="FileChooserDialogImpl" timestamp="1582459216542">
+    <state x="674" y="152" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1582806421760" />
+    <state x="805" y="312" key="FileChooserDialogImpl" timestamp="1583142712843">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="805" y="312" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1582459216542" />
-    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1582459203640">
+    <state x="805" y="312" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1583142712843" />
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1582806424458">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1582459203640" />
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1582806424458" />
     <state x="681" y="259" key="run.anything.popup" timestamp="1582273720831">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
